@@ -21,3 +21,5 @@ hot-fix version!
 confilt test!
 check check!
 github check!
+ssh push check!
+
