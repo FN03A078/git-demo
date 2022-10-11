@@ -21,3 +21,4 @@ hot-fix version!
 confilt test!
 check check!
 github check!
+clone check!
