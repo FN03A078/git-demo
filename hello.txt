@@ -22,4 +22,5 @@ confilt test!
 check check!
 github check!
 ssh push check!
-
+clone check!
+ssh check!
